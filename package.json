@@ -1,0 +1,10 @@
+{
+  "name": "goldenchildaba",
+  "version": "1.0.0",
+  "description": "Golden Child ABA website",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
